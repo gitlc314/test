@@ -4,6 +4,8 @@ public class Demo02 {
         System.out.println("6, 12, 10的最大值为：" + Demo.findMax(6, 12,10));
         System.out.println("19.35, 28.99, 65.99的最大值为：" + Demo.findMax(19.35, 28.99, 65.99));
         System.out.println("9.58, 18.65的最大值为：" + Demo.findMax(9.58, 18.65));
+
+
     }
 }
 
